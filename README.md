@@ -1,9 +1,6 @@
 # PlayfairCipher-Python
-A robust Python implementation of the classic Playfair Cipher, including modular functions for grid generation, message preparation, and encryption, fully tested with unittest.
 
----------
-
-# PlayfairCipher-Python
+---------------
 
 > A complete and robust Python implementation of the Playfair Cipher, a classic symmetric encryption technique. This project demonstrates modular programming, algorithmic thinking, and professional testing using the `unittest` framework.
 
@@ -17,4 +14,7 @@ The implementation is broken down into clear, testable components:
 3.  **Encryption Logic**: Applying the three main Playfair rules (Same Row, Same Column, Rectangle) to transform digraphs.
 4.  **Unit Testing**: Comprehensive tests using `unittest` to ensure all components function correctly under various edge-case scenarios.
 
-## 📁 Repository Structure
+
+
+
+
